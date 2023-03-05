@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/florianemil/react-portfolio-lesson/static/css/main.c2cab247.css",
-    "main.js": "/florianemil/react-portfolio-lesson/static/js/main.a66d8860.js",
+    "main.js": "/florianemil/react-portfolio-lesson/static/js/main.5ff57f15.js",
     "index.html": "/florianemil/react-portfolio-lesson/index.html",
     "main.c2cab247.css.map": "/florianemil/react-portfolio-lesson/static/css/main.c2cab247.css.map",
-    "main.a66d8860.js.map": "/florianemil/react-portfolio-lesson/static/js/main.a66d8860.js.map"
+    "main.5ff57f15.js.map": "/florianemil/react-portfolio-lesson/static/js/main.5ff57f15.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.a66d8860.js"
+    "static/js/main.5ff57f15.js"
   ]
 }
